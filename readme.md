@@ -8,7 +8,7 @@
 2. [M3*50螺丝](https://detail.tmall.com/item.htm?_u=b3u8db4mfd2b&id=636577427255&spm=a1z09.2.0.0.4e562e8dwG9V3d)
 3. [M4*15对锁螺丝](https://detail.tmall.com/item.htm?abbucket=17&id=542579355142&rn=b1f8dcb49373614946ef8d340aa26ef4&skuId=4600478305836&spm=a1z10.3-b.w4011-14789405706.78.235c37badoaNdj)
 4. [E3DV6近程散热器](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17331600343.22.254e3e69IKgMQ4&id=559984859809)
-5. [V6全金属喉管](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17331600343.54.76583e69NmYdAV&id=660404186743)
+5. [不锈钢喉管（不带铁氟龙）](https://item.taobao.com/item.htm?spm=a1z2k.11010449.931864.2.235f509dbea3QO&scm=1007.13982.82927.0&id=559690409325&last_time=1681276617)（双金属带外六角的喉管，比常规喉管长，我现在没有实物，故模型暂未适配）
 6. [V6火山PT100铝加热块](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17331600343.29.c8e43e69NdG7as&id=680651648360)（推荐购买此加热块）
 7. [热敏电阻](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17331600343.50.40003e6958S0JV&id=575202356478)（按加热块型号购买）
 8. [硅胶套](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17331600343.19.c8e43e69uqzWFz&id=633630275262)（按加热块型号购买）
